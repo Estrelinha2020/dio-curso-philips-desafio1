@@ -14,13 +14,15 @@ Formulação e resolução de problemas sistemático e eficiente: de maneira que
 
 Baseado em 4 pilares:
 
-   1) Decomposição
+**1) Decomposição**
 
-   2) Reconhecimento de padrões
+**2) Reconhecimento de padrões**
 
-   3) Abstração
+**3) Abstração**
 
-   4) Design de algoritmos
+**4) Design de algoritmos**
+
+
 
 
 
@@ -53,8 +55,12 @@ Baseado em 4 pilares:
 Classificação Raciocínio Lógico
 
 * Indução - Ciências experimentais
+
 * Dedução - Ciências exatas } Algebra Linera
+
 * Abdução - Conclusão - premissa, diagnósticos, processo investigativo.
+
+  ​
 
 
 
@@ -122,7 +128,7 @@ Dado um problema complexo, devemos quebra-lo em problemas menos. Portanto, probl
 
   ​
 
-**4) Algoritmos ** - precisa de intruções
+**4) Algoritmos** - precisa de intruções
 
 * Energia
 
@@ -133,6 +139,8 @@ Dado um problema complexo, devemos quebra-lo em problemas menos. Portanto, probl
 * Rapidez
 
   O computador recebe, manipula e armazena os dados. 
+
+  ​
 
 **Desenvolvimento do Programa**
 
