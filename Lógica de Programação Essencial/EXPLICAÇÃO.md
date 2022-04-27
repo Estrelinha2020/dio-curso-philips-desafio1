@@ -32,15 +32,19 @@ Programar é resolver problemas, usando melhor sequencia de ações (algoritmo)
 
 **Fluxograma** é uma ferramenta utilizada para representar graficamente o algoritmos, isto é, a sequencia lógica e coerente do fluxo de dados.
 
-![modelo de fluxograma](c/documentos/IMAGENS/fluxograma simples.png)
+![Modelo de fluxograma](//Documentos/IMAGENS/fluxograma simples.png)
 
 
 
 ## Algoritmo declarando as variáveis
 
-![declarando variaveis](c/documentos/IMAGENS/fluxograma variaveis.png)
+![Declarando Variáveis](//documentos/IMAGENS/fluxograma variaveis.png)
+
+## Veja outro modelo:
 
 
+
+![Fluxograma simples 2](//Documentos/IMAGENS/fluxograma simples 2.png)
 
 
 
