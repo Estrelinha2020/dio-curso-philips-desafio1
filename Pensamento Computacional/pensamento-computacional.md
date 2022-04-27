@@ -8,7 +8,7 @@ Professora: Juliana Mascarenhas
 
 Refere-se ao processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador.
 
-​                                                                                                                           (Aho, 2011: Lee, 2016)
+​                                                                                                                                (Aho, 2011: Lee, 2016)
 
 Formulação e resolução de problemas sistemático e eficiente: de maneira que o ser humano e uma máquina possa entender.
 
@@ -22,9 +22,7 @@ Baseado em 4 pilares:
 
 **4) Design de algoritmos**
 
-
-
-
+  ​
 
 **Processo Contínuo**
 
@@ -61,8 +59,6 @@ Classificação Raciocínio Lógico
 * Abdução - Conclusão - premissa, diagnósticos, processo investigativo.
 
   ​
-
-
 
 **Atos de aperfeiçoar**
 
@@ -106,7 +102,7 @@ Dado um problema complexo, devemos quebra-lo em problemas menos. Portanto, probl
 
 **Síntese** - consiste em reunir elementos distintos em um único elemento, processo de reconstrução, fundir os elementos de maneira coerente.
 
-
+  ​
 
 **2) Reconhecimento de Padrões**
 
