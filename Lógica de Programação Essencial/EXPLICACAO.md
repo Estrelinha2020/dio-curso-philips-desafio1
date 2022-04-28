@@ -32,19 +32,19 @@ Programar é resolver problemas, usando melhor sequencia de ações (algoritmo)
 
 **Fluxograma** é uma ferramenta utilizada para representar graficamente o algoritmos, isto é, a sequencia lógica e coerente do fluxo de dados.
 
-![Modelo de fluxograma](/dio-curso-philips-desafio1/Lógica de Programação Essencial/imagens/fluxograma simples.png)
+![Modelo de fluxograma](https://github.com/Estrelinha2020/dio-curso-philips-desafio1/blob/ee6ec0c8b8f7881deaa9e37cb73b56557f7534a5/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20Essencial/imagens2/fluxograma%20simples.png)
 
 
-
-## Algoritmo declarando as variáveis
-
-![Declarando Variáveis](/dio-curso-philips-desafio1/Lógica de Programação Essencial/imagens/fluxograma variaveis.png)
 
 ## Veja outro modelo:
 
 
+![Fluxograma simples 2](https://github.com/Estrelinha2020/dio-curso-philips-desafio1/blob/ee6ec0c8b8f7881deaa9e37cb73b56557f7534a5/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20Essencial/imagens2/fluxograma%20simples%202.png)
 
-![Fluxograma simples 2](/dio-curso-philips-desafio1/Lógica de Programação Essencial/imagensS/fluxograma simples 2.png)
+
+## Algoritmo declarando as variáveis
+
+![Declarando Variáveis](https://github.com/Estrelinha2020/dio-curso-philips-desafio1/blob/ee6ec0c8b8f7881deaa9e37cb73b56557f7534a5/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20Essencial/imagens2/fluxograma%20variaveis.png)
 
 
 
